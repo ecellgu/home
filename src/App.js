@@ -5,13 +5,14 @@ import Avirat from './Pages/Avirat';
 function App() {
   return (
     <div className="App">
-      <Router>
+          <BrowserRouter  basename={window.location.pathname || ''}>
+
         <Routes>
           <Route path='/' element={<Home/>}/>
           <Route path='/avirat' element={<Avirat/>}/>
 
         </Routes>
-      </Router>
+        </BrowserRouter>
     </div >
   );
 }
