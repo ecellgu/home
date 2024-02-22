@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: #010400;
+  color: #fff;
+  overflow-x: hidden;
+  font-family: "League Spartan", sans-serif;
+}
+
+.gradient-div {
+  background-color: #2b1007;
+  filter: blur(100px);
+  z-index: -1;
+}
+
+.rocketIcon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0.22) 0%,
+    rgba(217, 217, 217, 0) 100%,
+    rgba(217, 217, 217, 0.22) 100%
+  );
+}
+.profileMemberCard {
+  transform: scale(1.5);
+}
