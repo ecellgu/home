@@ -407,10 +407,10 @@ const Home = () => {
                     name={"Aradhana Galgotia"}
                     role={""}
                     linkedinLink={
-                      "https://www.linkedin.com/in/ananya-goswami-3a3702106/"
+                      "https://www.linkedin.com/company/entrepreneurship-cell-galgotias-university/"
                     }
                     instaLink={
-                      "https://instagram.com/ananyadolly?igshid=YmMyMTA2M2Y="
+                      "https://instagram.com/ecellgu"
                     }
                   />
                 </Fade>
@@ -428,10 +428,10 @@ const Home = () => {
                     name={"Raj Singh Bhati"}
                     role={""}
                     linkedinLink={
-                      "https://www.linkedin.com/in/tushar-asthana2402/"
+                      "https://www.linkedin.com/company/entrepreneurship-cell-galgotias-university/"
                     }
                     instaLink={
-                      "https://instagram.com/tushar.asthana_?igshid=YmMyMTA2M2Y="
+                      "https://instagram.com/ecellgu"
                     }
                   />
                 </Fade>
@@ -445,9 +445,9 @@ const Home = () => {
                 img={memberVishal}
                 name={"Vishal Diavisine"}
                 role={"President"}
-                linkedinLink={"https://www.linkedin.com/in/tushar-asthana2402/"}
+                linkedinLink={"https://www.linkedin.com/in/vishal-diavisine-40a97a232/"}
                 instaLink={
-                  "https://instagram.com/tushar.asthana_?igshid=YmMyMTA2M2Y="
+                  "https://www.instagram.com/vishal.20_/?hl=en"
                 }
               />
             </Fade>
@@ -458,10 +458,10 @@ const Home = () => {
                 name={"Saksham Chawla"}
                 role={"Vice President"}
                 linkedinLink={
-                  "https://www.linkedin.com/in/ananya-goswami-3a3702106/"
+                  "https://www.linkedin.com/in/22sc/"
                 }
                 instaLink={
-                  "https://instagram.com/ananyadolly?igshid=YmMyMTA2M2Y="
+                  "https://www.instagram.com/variatebruh/?hl=en"
                 }
               />
             </Fade>
@@ -471,9 +471,9 @@ const Home = () => {
                 name={"Atharva Srivastava"}
                 role={"Secretary"}
                 linkedinLink={
-                  "https://www.linkedin.com/in/priyanshu-bir-44545a1b7/"
+                  "https://www.linkedin.com/in/atharva-srivastava-profile/"
                 }
-                instaLink={"https://www.instagram.com/sauronium/"}
+                instaLink={"https://www.instagram.com/atharvva_/?hl=en"}
               />
             </Fade>
 
@@ -482,9 +482,9 @@ const Home = () => {
                 img={memberVansh}
                 name={"Vansh Taneja"}
                 role={"Treasurer"}
-                linkedinLink={"https://www.linkedin.com/in/tushar-asthana2402/"}
+                linkedinLink={"https://www.linkedin.com/in/vansh-taneja-0809381a0/"}
                 instaLink={
-                  "https://instagram.com/tushar.asthana_?igshid=YmMyMTA2M2Y="
+                  "https://www.instagram.com/taneja.vansh/?hl=en"
                 }
               />
             </Fade>
@@ -497,9 +497,9 @@ const Home = () => {
                 name={"Shivansh Srivastava"}
                 role={"Startup Development Head"}
                 linkedinLink={
-                  " https://www.linkedin.com/in/atharva-srivastava-profile"
+                  "https://www.linkedin.com/in/shivansh-srivastava-698405239/"
                 }
-                instaLink={"https://www.linkedin.com/in/atharvva_/"}
+                instaLink={"https://www.instagram.com/harsh.mnob/"}
               />
             </Fade>
             <Fade bottom>
@@ -507,8 +507,8 @@ const Home = () => {
                 img={memberNishant}
                 name="Nishant Srivastava"
                 role="Technical Head"
-                linkedinLink={"https://www.linkedin.com/in/rishi23jain/"}
-                instaLink={"https://www.instagram.com/rishi23jain/"}
+                linkedinLink={"https://www.linkedin.com/in/nishant-srivastava-/"}
+                instaLink={"https://www.instagram.com/srivastava4nishant/"}
               />
             </Fade>
             <Fade bottom>
@@ -517,10 +517,10 @@ const Home = () => {
                 name={"Avanya Tyagi"}
                 role="Public Relations Head"
                 linkedinLink={
-                  "https://www.linkedin.com/in/shreyansh-gupta-1036b9225/"
+                  "https://www.linkedin.com/in/avanyatyagi08/"
                 }
                 instaLink={
-                  "https://instagram.com/shreyansh.gupta10?igshid=YmMyMTA2M2Y="
+                  "https://www.instagram.com/avanyatyagiii/"
                 }
               />
             </Fade>
@@ -530,10 +530,10 @@ const Home = () => {
                 name={"Anshu Raj"}
                 role="Digital Media & Promotions Head"
                 linkedinLink={
-                  "https://www.linkedin.com/in/shreyansh-gupta-1036b9225/"
+                  "https://www.linkedin.com/in/anshu-raj2006/"
                 }
                 instaLink={
-                  "https://instagram.com/shreyansh.gupta10?igshid=YmMyMTA2M2Y="
+                  "https://www.instagram.com/anshraj_world/"
                 }
               />
             </Fade>
@@ -544,8 +544,8 @@ const Home = () => {
                 img={memberAastha}
                 name={"Aastha Bajaj"}
                 role="Marketing Head"
-                linkedinLink={"https://www.linkedin.com/in/saksham5400/"}
-                instaLink={"https://www.instagram.com/i.sakshamchawla/"}
+                linkedinLink={"https://www.linkedin.com/in/aastha-bajaj-862a2225a/"}
+                instaLink={"https://www.instagram.com/aastha_prerna/"}
               />
             </Fade>
             <Fade bottom>
@@ -554,9 +554,9 @@ const Home = () => {
                 name={"Ayush Gupta"}
                 role={"Ambassador Head"}
                 linkedinLink={
-                  "https://www.linkedin.com/in/vishal-diavisine-40a97a232/"
+                  "https://www.linkedin.com/in/guptaayush8218/"
                 }
-                instaLink={"https://www.instagram.com/vishal.20_/"}
+                instaLink={"https://www.instagram.com/ayush__gupta_._/"}
               />
             </Fade>
             <Fade bottom>
@@ -564,8 +564,8 @@ const Home = () => {
                 img={memberAbhinna}
                 name={"Abhinna Chaudhary"}
                 role="Event Management Head"
-                linkedinLink={"https://www.linkedin.com/in/saksham5400/"}
-                instaLink={"https://www.instagram.com/i.sakshamchawla/"}
+                linkedinLink={"https://www.instagram.com/abhiinnaa/"}
+                instaLink={"https://www.instagram.com/abhiinnaa/"}
               />
             </Fade>
           </div>

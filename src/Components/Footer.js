@@ -27,7 +27,7 @@ const Footer = () => {
             </p>
           </div>
           <div className="w-40 h-40 rounded-full">
-            <video
+            {/* <video
               autoPlay
               loop
               muted
@@ -38,7 +38,7 @@ const Footer = () => {
                 src={intro}
                 type="video/mp4"
               />
-            </video>
+            </video> */}
           </div>
         </div>
         <div className="flex gap-20 md:gap-20 flex-wrap justify-center md:justify-start">

@@ -17,7 +17,7 @@ const Links = ({direction}) => {
             <a href="https://www.facebook.com/ecellgu " target="_blank"  rel="noreferrer">
                 <img src={facebook} alt="facebook" className='w-5' />
             </a>
-            <a href="https://www.linkedin.com/company/iicgu/ 
+            <a href="https://www.linkedin.com/company/entrepreneurship-cell-galgotias-university/ 
             " target="_blank"  rel="noreferrer">
                 <img src={linkedin} alt="linkedin" className='w-5' />
             </a>
